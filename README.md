@@ -1,2 +1,2 @@
 # JavaScript-Projects
-JavaScript Projects (PITMAN)
+Here is my JavaScript Projects for PITMAN INSTITUTION.
